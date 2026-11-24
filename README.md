@@ -21,7 +21,7 @@
 - 👥 Two-player gameplay.
 - 🎯 Win detection.
 - 🤝 Draw detection.
-- 🎮 Interactive gameplay.
+- 🔄 Replay option
 
 ### ✊ Rock Paper Scissors
 
@@ -53,9 +53,3 @@
 - Random Number Generation
 - User Input Handling
 - Problem-Solving and Logical Thinking
-
----
-
-<p align="center">
-  ✨ <i>Learning, coding, and having fun one game at a time!</i>
-</p>
