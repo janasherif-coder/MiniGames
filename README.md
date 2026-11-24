@@ -2,7 +2,7 @@
 
 <h1 align="center">🎮 Mini Games Collection</h1>
 
-<h3 align="center">XO (Tic-Tac-Toe) & Rock Paper Scissors</h3>
+<h3 align="center">XO & Rock Paper Scissors</h3>
 
 <p align="center">
   A collection of classic games developed using C++.
@@ -12,7 +12,7 @@
 
 ### 🕹️ Games Included
 
-### ❌ XO (Tic-Tac-Toe)
+### ❌ XO
 
 <p>
   A classic two-player game played on a 3×3 grid. Players take turns placing X and O, aiming to get three symbols in a row, column, or diagonal to win.
